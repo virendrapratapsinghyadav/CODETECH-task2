@@ -12,7 +12,7 @@ WeatherSense: Current Weather Conditions and City-based Forecast is a web applic
 4. User-friendly Interface: The weather information is displayed in a visually appealing manner, making it easy to understand and navigate.
 
 ### Screenshots
-![Access](screenshots/Location-access.png)
+![Access](screenshots/location-access.png)
 ![Search](screenshots/search.png)
 ![Final weather](screenshots/weather.png)
    
